@@ -8,6 +8,6 @@ import lombok.*;
 @Setter
 public class Staff {
     private Long id;
-    private String name,phone;
+    private String name,gender;
 
 }
